@@ -21,4 +21,4 @@ $ react-native run-ios
 ```
 
 ## The app should look like this 
-![Screenshot of App](https://imgur.com/a/VkBWH98)
+![Screenshot of App](https://i.imgur.com/F679pON.png)
